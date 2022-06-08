@@ -15,4 +15,14 @@
   hey there
   <img src="https://tinyurl.com/y4ky2mzv" width="60px"/>
 <h1>
-</div>
+---
+
+### :woman_technologist: About Me :
+  
+- I code in bash, and learning HTML
+  
+- I currently help out with [Rolling Rhino Remix](https://github.com/rollingrhinoremix)
+
+- Currently enlisting in the US Navy.
+
+- :mailbox:How to reach me: [![Twittter Badge](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/GDX4X5)
