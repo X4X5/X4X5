@@ -11,8 +11,8 @@
 </div>
 <div id="view" align="center">
   <img src="https://komarev.com/ghpvc/?username=X4X5&style=flat-square&color=blue" alt=""/>
-</div>
-<h1>
+  <h1>
   hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
+  <img src="https://tinyurl.com/y4ky2mzv" width="60px"/>
+<h1>
+</div>
