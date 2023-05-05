@@ -19,7 +19,7 @@
 
 ### :woman_technologist: About Me :
   
-- Self-taught in bash script
+- Self-taught in bash script and currently learning C
   
 - I previously helped out with [Rolling Rhino Remix](https://github.com/rollingrhinoremix)
 
