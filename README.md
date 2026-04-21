@@ -17,6 +17,8 @@
 ### :woman_technologist: About Me :
   
 - Self-taught in bash script and json
+
+- Learning C#
   
 - I previously helped out with [Rolling Rhino Remix](https://github.com/rollingrhinoremix)
 
