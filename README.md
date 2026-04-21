@@ -23,10 +23,8 @@
   
 - I previously helped out with [Rolling Rhino Remix](https://github.com/rollingrhinoremix)
 
-- Taken, so that's out of the question lmao
+- Single now, still out of the question tho lol
 
 - I add some silly little background music to the Steam Deck
-
-- :mailbox:How to reach me: [![Twittter Badge](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/GDX4X5)
   
-- In all, just a goofy 19 year old with way too much internet access
+- In all, just a goofy 22 year old trans girl thing with way too much internet access
