@@ -29,3 +29,5 @@
 - I do not claim any of the code here being good or top quality, I code in my spare time and learn as I go
   
 - In all, just a goofy 22 year old trans girl thing with way too much internet access
+
+Profile picture by [Forg0ttenMemory](https://www.deviantart.com/forg0ttenmemory) on DeviantArt
