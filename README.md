@@ -9,7 +9,6 @@
   Hey there!
   <img src="https://tinyurl.com/y4ky2mzv" width="60px"/>
 <h1>
----
 
 ### :woman_technologist: About Me :
   
