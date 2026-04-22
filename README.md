@@ -13,7 +13,7 @@
 
 ### :woman_technologist: About Me :
   
-- Self-taught in bash script and json
+- Self-taught in bash and json
 
 - Learning C#
   
@@ -28,3 +28,5 @@
 - In all, just a goofy 22 year old trans girl thing with way too much internet access
 
 Profile picture by [Forg0ttenMemory](https://www.deviantart.com/forg0ttenmemory) on DeviantArt
+
+My own contact: @x4x5_:matrix.org
