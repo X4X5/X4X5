@@ -3,6 +3,7 @@
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
 </div>
+<script src="https://keepandroidopen.org/banner.js"></script>
 <div id="view" align="center">
   <img src="https://komarev.com/ghpvc/?username=X4X5&style=flat-square&color=blue" alt=""/>
   <h1>
